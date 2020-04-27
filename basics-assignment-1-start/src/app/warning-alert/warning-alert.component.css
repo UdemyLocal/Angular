@@ -1,0 +1,5 @@
+.c-warning-alert {
+  background-color: orange;
+  color: red;
+  border: solid 1px orangered;
+}
